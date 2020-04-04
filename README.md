@@ -40,6 +40,7 @@ Vector Space [[paper]](https://arxiv.org/pdf/1301.3781.pdf)
 
 * ## 3.2. Multi-task Learning / Sequence-to-Sequence Model
  - Adversarial Multi-task Learning for Text Classification [[paper]](https://arxiv.org/pdf/1704.05742.pdf)
+ - Effective Approaches to Attention-based Neural Machine Translation [[paper]](https://arxiv.org/pdf/1508.04025.pdf)
  - Sequence to Sequence Learning
 with Neural Networks [[paper]](https://arxiv.org/pdf/1409.3215.pdf)
  - Neural Machine Translation
