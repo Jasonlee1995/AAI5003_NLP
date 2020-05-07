@@ -41,10 +41,10 @@ Vector Space [[paper]](https://arxiv.org/pdf/1301.3781.pdf)
 * ## 3.2. Multi-task Learning / Sequence-to-Sequence Model
  - Adversarial Multi-task Learning for Text Classification [[paper]](https://arxiv.org/pdf/1704.05742.pdf)
  - Effective Approaches to Attention-based Neural Machine Translation [[paper]](https://arxiv.org/pdf/1508.04025.pdf)
- - Sequence to Sequence Learning
-with Neural Networks [[paper]](https://arxiv.org/pdf/1409.3215.pdf)
  - Neural Machine Translation
 by Jointly Learning to Align and Translate [[paper]](https://arxiv.org/pdf/1409.0473.pdf)
+ - Sequence to Sequence Learning
+with Neural Networks [[paper]](https://arxiv.org/pdf/1409.3215.pdf)
 
 * ## 3.3. Machine Reading Comprehension
  - Reading Wikipedia to Answer Open-Domain Questions [[paper]](https://arxiv.org/pdf/1704.00051.pdf)
